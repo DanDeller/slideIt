@@ -1,8 +1,8 @@
 $(function() {
 
 	var slides    = $('#home-slider li'),
-		textIndex = 0,
-		slideText = [
+	    textIndex = 0,
+	    slideText = [
   			{
 					headLine : 'public records search service',
 					subHead  : 'Background Checks, Police Records, Court Documents, Contact Information and Much More!'
